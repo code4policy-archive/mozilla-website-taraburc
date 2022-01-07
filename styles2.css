@@ -3,3 +3,12 @@ p, ul, hl {
   width: 500px;
   border:  1px solid black;
 }
+
+.quote {
+  color: green;
+}
+
+#mainquote {
+  color: purple;
+  border:  6px solid black;
+}
