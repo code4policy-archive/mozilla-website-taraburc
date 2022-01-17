@@ -1,8 +1,3 @@
-const myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello world!';
-
-let myButton = document.querySelector('button');
-let myHeading = document.querySelector('h1');
 
 function setUserName() {
   let myName = prompt('Please enter your name.');
@@ -13,8 +8,6 @@ function setUserName() {
 myButton.onclick = function() {
   setUserName();
 }
-
- alert('Warning, this is a popup alert!!!');
 
 
  // Define a Function
