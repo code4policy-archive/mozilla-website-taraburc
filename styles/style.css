@@ -46,6 +46,6 @@ img {
 }
 
 #mainquote {
-  border: black;
+  border-style: solid;
 }
 
